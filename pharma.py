@@ -1,0 +1,1 @@
+print('git config --list')
